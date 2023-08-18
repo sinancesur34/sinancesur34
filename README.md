@@ -8,13 +8,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer">
-                <img src="link_to_asp_net_image" alt="ASP.NET" width="40" height="40" />
+                <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" alt="ASP.NET" width="40" height="40" />
             </a>
             <a href="https://docs.microsoft.com/en-us/aspnet/core/mvc/overview?view=aspnetcore-5.0" target="_blank" rel="noreferrer">
-                <img src="link_to_mvc_image" alt="MVC" width="40" height="40" />
+                <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-plain.svg" alt="MVC" width="40" height="40" />
             </a>
             <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-                <img src="link_to_sql_server_image" alt="MS SQL" width="40" height="40" />
+                <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="MS SQL" width="40" height="40" />
             </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sinancesur34&show_icons=true&theme=radical&locale=en&layout=compact" alt="sinancesur34" /></p>
